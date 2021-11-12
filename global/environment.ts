@@ -1,0 +1,1 @@
+export const SERVER_PORT = Number (process.env.PORT) || 5000;    // Almacenará el puerto por donde escuchará las peticiones nuestro servidor
